@@ -3,7 +3,7 @@ I'm **Kyle Householder**.
 
 I'm relatively new to coding, but dabbled in C++ and BASIC some twenty years ago.
 
-My recent motivation for learning to code began with self-study of µarch, and it led me down a predictable rabbit hole of assembly and low-level coding.
+My recent motivation for learning to code began with self-study of µarch, and it led me down a predictable rabbit hole of assembly and low-level programming. This led to realizing learning resources are better today than two decades ago... You get the idea.
 
 I have a mechanical/electrical troubleshooting background. This gives me dreams of hacking on anything within reach, exploring control systems or automation features, and merging small hardware with efficient code.
 
